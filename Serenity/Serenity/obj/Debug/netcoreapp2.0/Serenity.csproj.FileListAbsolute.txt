@@ -1,0 +1,11 @@
+C:\Users\gmelv\source\repos\Serenity\Serenity\bin\Debug\netcoreapp2.0\Serenity.deps.json
+C:\Users\gmelv\source\repos\Serenity\Serenity\bin\Debug\netcoreapp2.0\Serenity.runtimeconfig.json
+C:\Users\gmelv\source\repos\Serenity\Serenity\bin\Debug\netcoreapp2.0\Serenity.runtimeconfig.dev.json
+C:\Users\gmelv\source\repos\Serenity\Serenity\bin\Debug\netcoreapp2.0\Serenity.dll
+C:\Users\gmelv\source\repos\Serenity\Serenity\bin\Debug\netcoreapp2.0\Serenity.pdb
+C:\Users\gmelv\source\repos\Serenity\Serenity\obj\Debug\netcoreapp2.0\Serenity.csprojAssemblyReference.cache
+C:\Users\gmelv\source\repos\Serenity\Serenity\obj\Debug\netcoreapp2.0\Serenity.csproj.CoreCompileInputs.cache
+C:\Users\gmelv\source\repos\Serenity\Serenity\obj\Debug\netcoreapp2.0\Serenity.AssemblyInfoInputs.cache
+C:\Users\gmelv\source\repos\Serenity\Serenity\obj\Debug\netcoreapp2.0\Serenity.AssemblyInfo.cs
+C:\Users\gmelv\source\repos\Serenity\Serenity\obj\Debug\netcoreapp2.0\Serenity.dll
+C:\Users\gmelv\source\repos\Serenity\Serenity\obj\Debug\netcoreapp2.0\Serenity.pdb
